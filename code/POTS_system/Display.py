@@ -13,6 +13,6 @@ class display():
         display.text = "WALK"
         return None
 
-    def caution(self):
+    def visual_caution(self):
         display.text = "WARNING"
         return None

@@ -18,6 +18,9 @@ class safex:
     def visual_go_walk(self):
         return None
 
+    def visual_caution(self):
+        return None
+
     def audible_stop(self):
         return None
 
@@ -30,7 +33,7 @@ class safex:
     def haptic_go_walk(self):
         return None
 
-    def caution(self):
+    def audible_caution(self):
         return None
 
     def detect_car(self):
