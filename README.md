@@ -10,9 +10,9 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+The primary motavation for the a safe pedestrian traffic system is to provide a safe commuter expereince for citizens with visual, hearing, cognitive, and physical disabilities. While the main goal was to increase the mobility and self-reliance capabilities of disabilied citizens, all citizens will benefit from the safe pedestrian traffic system. Bicyclists and drivers will also benefit from the safe pedestrian traffic system by providing advanced alerts.
+This idea was adapted form the City of Orlando's proposal titled Accessible Transportation Technology Research Initiative (ATTRI). Several other cities have adopted similar incintatives to address these problems. The City of Orlando proposed safe traffic system is called SafeX (pronounced Safe Cross) which is also the adopted name of this project.
+The Florida Department of Transportation (FDOT) has a program in place called PedSafe meant to reduce pedestrian involved accidents. There are two other programs that have tackled the safe pedestrian traffic system: the United States Department of Transportation (USDOT) Savari SmartCross and Dartmouth University's WalkSafe.(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 ## Requirements (Experimental Design)
 
