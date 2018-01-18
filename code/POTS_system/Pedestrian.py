@@ -1,10 +1,10 @@
 class pedestrian():
 
-    def __init__(self):
-        self.speed = 1.0
+    def __init__(self, ps):
+        self.ped_spd = ps
 
     def Ped_walk(self):
-        pedestrian.speed = max.speed
+        self.ped_spd = 1.0
         return None
 
     def Ped_stop(self):

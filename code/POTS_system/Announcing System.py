@@ -1,7 +1,7 @@
 class Announcing_sys():
 
-    def __init__(self):
-        self.vol = 1.0
+    def __init__(self, vol):
+        self.announcing_vol = vol
 
     def Audible_stop(self):
         Announcing_sys.sound = "STOP"
