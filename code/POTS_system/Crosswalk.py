@@ -10,10 +10,10 @@ class crosswalk():
 
 
 
-    def Haptic_stop(self):
+    def haptic_stop(self):
         crosswalk.state = 1
         return None
 
-    def Haptic_go_walk(self):
+    def haptic_go_walk(self):
         crosswalk.state = 0
         return None

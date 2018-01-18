@@ -12,52 +12,52 @@ class safex:
         self.vehicle_spd = vs
         self.max_speed = maxspd
 
-    def Visual_stop(self):
+    def visual_stop(self):
         return None
 
-    def Visual_go_walk(self):
+    def visual_go_walk(self):
         return None
 
-    def Audible_stop(self):
+    def audible_stop(self):
         return None
 
-    def Audible_go_walk(self):
+    def audible_go_walk(self):
         return None
 
-    def Haptic_stop(self):
+    def haptic_stop(self):
         return None
 
-    def Haptic_go_walk(self):
+    def haptic_go_walk(self):
         return None
 
-    def Caution(self):
+    def caution(self):
         return None
 
-    def Detect_car(self):
+    def detect_car(self):
         return None
 
-    def Detect_pedestrian(self):
+    def detect_pedestrian(self):
         return None
 
-    def Vehicle_drive(self):
+    def vehicle_drive(self):
         return None
 
-    def Vehicle_stop(self):
+    def vehicle_stop(self):
         return None
 
-    def Ped_walk(self):
+    def ped_walk(self):
         return None
 
-    def Ped_stop(self):
+    def ped_stop(self):
         return None
 
-    def Bike_move(self):
+    def bike_move(self):
         return None
 
-    def Bike_stop(self):
+    def bike_stop(self):
         return None
 
-    def Track_interact(self):
+    def track_interact(self):
         return None
 
-    
+

@@ -5,14 +5,14 @@ class display():
         self.vis_brightness = b
 
 
-    def Visual_stop(self):
+    def visual_stop(self):
         display.text = "STOP"
         return None
 
-    def Visual_go_walk(self):
+    def visual_go_walk(self):
         display.text = "WALK"
         return None
 
-    def Caution(self):
+    def caution(self):
         display.text = "WARNING"
         return None
