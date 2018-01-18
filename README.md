@@ -28,14 +28,14 @@ SafeX system will set the following requirements:
 (remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
 (remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
-* [**Object Diagram**]![My model](images/Safe Ped Traffic Sys Class Diagram.png) - provides the high level overview of components
+* [**Object Diagram**]![My model](images/SafePedTrafficSysClassDiagram.png) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
 ## Smart City (My Problem) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+This problem could be (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 
 ## Smart City (My Problem) Model
