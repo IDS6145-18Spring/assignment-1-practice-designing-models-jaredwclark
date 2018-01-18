@@ -2,7 +2,7 @@
 (remove: **text between brackets to be removed**)
 
 > * Participant name: Jared Clark
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Project Title: Safe Pedestrian Traffic System - SafeX (Safe Crosswalks)
 
 ## General Introduction
 
@@ -16,7 +16,12 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+SafeX system will set the following requirements:
+* 50% reduction in pedestrian and bicycle incidents overall
+* 80% reduction in pedestrian and bicycle fatalities overall
+* 50% reduction in pedestrian and bicycle incidents involving citizens with disabilities (hearing, vision, cognitive, and mobility issues)
+* 10% or less of total system alerts are false positives
+
 
 ## Smart City (My Problem) Model
 
