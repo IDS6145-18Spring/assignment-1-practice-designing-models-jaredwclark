@@ -35,7 +35,7 @@ SafeX system will set the following requirements:
 
 ## Smart City (My Problem) Simulation
 
-This problem could be (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+This problem could be simulated as a continuous, discrete, or agent-based simulation. For this problem (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 
 ## Smart City (My Problem) Model
