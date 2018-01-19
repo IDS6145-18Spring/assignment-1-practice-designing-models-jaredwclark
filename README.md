@@ -1,4 +1,4 @@
-# Assignment1 - Practice Designing Models (Template)
+# Assignment1 - Practice Designing Models
 
 
 > * Participant name: Jared Clark
@@ -33,11 +33,11 @@ SafeX system will set the following requirements:
 
 ## Smart City Safe Pedestrian Traffic System Simulation
 
-This problem could be simulated as a continuous, discrete, or an agent-based simulation. For this particular situation a continuous simulation was chosen to assist in identifing material requirements. [**(Safe Traffic System Sim)**](assignment-1-practice-designing-models-jaredwclark/analysis/README.md)
+This problem could be simulated as a continuous, discrete, or an agent-based simulation. For this particular situation a continuous simulation was chosen to assist in identifing material requirements. [**(Safe Traffic System Sim)**](analysis/README.md)
 
 
 ## Smart City Safe Pedestrian Traffic System Model
-[**Code template**](assignment-1-practice-designing-models-jaredwclark/code/README.md) - Starting coding framework for the (Safe Pedestrian Traffic System)
+[**Code template**](code/README.md) - Starting coding framework for the (Safe Pedestrian Traffic System)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
